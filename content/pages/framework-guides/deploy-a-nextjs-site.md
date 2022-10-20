@@ -212,7 +212,7 @@ Next.js requires Node.js v12.22.0 or later to build successfully. To set your No
 
 After configuring your site, you can begin your first deploy. You should see Cloudflare Pages installing `next`, your project dependencies, and building your site before deploying it.
 
-## What's next?
+## Preview your site
 
 {{<Aside type="note">}}
 
